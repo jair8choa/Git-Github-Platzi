@@ -7,5 +7,5 @@ body{
 span{
     text-decoration: line-through;  
     color: teal;  
-
+    text-transform: uppercase;
 }
