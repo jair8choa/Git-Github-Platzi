@@ -1,2 +1,2 @@
-# Git-Githud-Platzi
-Course of Platzi about Git and Githud
+# Git-Github-Platzi
+Course of Platzi about Git and Github
